@@ -42,6 +42,8 @@ Untuk multivariate analysis bisa kita visualisasikan menggunakan heatmap
 
 ![alt text](https://github.com/drestantav/raka_project_repo/blob/main/gambar/p7.png)
 
+Pada heatmap dapat dilihat bahwa ada 3 fitur yang berkorelasi dengan target yaitu, CURRENT_JOB_YRS (negative correlation), Experience (negative correlation), dan Age (negative correlation). Lalu ada 2 fitur yang saling berkorelasi dengan nilai yang cukup besar yaitu CURRENT_JOB_YRS dan Experience dengan nilai koefisien korelasi sebesar 0.65.
+
 ## 4. Business Insight
 
 - Total User (Paid Vs Defaulted)
