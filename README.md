@@ -21,6 +21,8 @@ Handle Class Imbalance : Pada dataset loan prediction, kelas minoritas dapat dia
 
 ## 2. Feature Engineering
 
+Feature Selection : Ada dua kolom yang dibuang yaitu, kolom Id dan CITY. Kolom CITY dibuang karena memilik unique value yang terlalu banyak dan diputuskan untuk menggunakan kolom STATE saja.
+
 Feature Extraction : Tidak ada fitur baru yang dibuat, tetapi ada pecahan dari beberapa fitur kategorikal setelah dilakukan encoding
 
 Feature Tambahan : Fitur yang mungkin perlu ditambahkan : Total amount of loan, Uda berapa kali loan di tempat ini (payment/loan history), Pengeluaran Bulanan, Banyaknya pengajuan pinjaman setiap bulannya., customer creadit score, the lenght of time of the customer has been employed.
